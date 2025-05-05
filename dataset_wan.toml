@@ -3,7 +3,7 @@ enable_ar_bucket = false
 min_ar = 1.68
 max_ar = 1.88
 num_ar_buckets = 1
-frame_buckets = [20, 30,]
+frame_buckets = [21, 29,]
 [[directory]]
 path = "/workspace/push-in"
 num_repeats = 1
